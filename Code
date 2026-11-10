@@ -312,7 +312,7 @@
             </div>
 
             <div class="photo">
-                <img src=C:\Users\tyler\OneDrive\Pictures\Screenshots\dango.png width="200" height="200">
+                <img src=TLE-PT-Tyler-Isaiah-Veloso-9-ALGERIA\dango.png width="200" height="200">
             </div>
 
         </div>
