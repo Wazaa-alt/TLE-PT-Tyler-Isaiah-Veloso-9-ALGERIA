@@ -170,7 +170,7 @@
 
     <!-- HEADER -->
     <header>
-        <h1>Grade 9 TLE Personal Portfolio</h1>
+        <h1>Grade 911 TLE Personal Portfolio</h1>
         <p></p>
     </header>
 
